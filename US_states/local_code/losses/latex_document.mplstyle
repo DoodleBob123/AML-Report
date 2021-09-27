@@ -1,0 +1,28 @@
+axes.titlesize : 8
+axes.labelsize : 8
+xtick.labelsize : 8
+ytick.labelsize : 8
+
+axes.grid: False
+axes.grid.axis: both
+axes.grid.which: both
+grid.linestyle: dashed
+grid.linewidth: 0.3
+
+#font.family  : sans-serif
+#font.serif   : CMU Serif
+font.size    : 8
+text.usetex  : false
+
+errorbar.capsize: 3
+
+figure.figsize : 4.7747, 2.9509
+xtick.minor.visible : True
+ytick.minor.visible : True
+
+axes.axisbelow : True
+figure.autolayout : True
+
+
+
+
